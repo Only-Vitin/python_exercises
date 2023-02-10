@@ -25,7 +25,7 @@ while True:
         if resto15 == 0:
             huluculu = True
 
-      #PRINT
+     #PRINT
         if bissexto or huluculu or bulukulu:
             if(bissexto == True):
                 print("This is a leap year.", end="\n")
